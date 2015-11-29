@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2015-11-29 18:41+0100\n"
+"PO-Revision-Date: 2015-11-29 18:48+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -45,7 +45,7 @@ msgstr "Verplichte velden zijn gemarkeerd met %s"
 
 #: comments.php:28
 msgid "Leave a Reply"
-msgstr "Laat een reactie achter"
+msgstr "Reageer"
 
 #: comments.php:29
 #, php-format
@@ -58,7 +58,7 @@ msgstr "Annuleren"
 
 #: comments.php:31
 msgid "Post Comment"
-msgstr "Plaats uw reactie"
+msgstr "Plaats reactie"
 
 #: comments.php:32
 msgctxt "noun"
@@ -81,7 +81,7 @@ msgstr ""
 
 #: comments.php:35
 msgid "Your email address will not be published. "
-msgstr "Je email adres wordt niet gepubliceerd."
+msgstr "Je e-mailadres wordt niet gepubliceerd."
 
 #: comments.php:38
 msgid "Name *"
@@ -1411,7 +1411,7 @@ msgstr ""
 
 #: options-config.php:878
 msgid "<h3>Scheduled Posts</h3>"
-msgstr ""
+msgstr "<h3>Geplande Posts</h3>"
 
 #: options-config.php:879 options-config.php:924
 msgid ""
@@ -1421,7 +1421,7 @@ msgstr ""
 
 #: options-config.php:884
 msgid "Next Week"
-msgstr ""
+msgstr "Volgende week"
 
 #: options-config.php:885
 msgid "Would you like to show or hide the <em>Next Week</em> area?"
@@ -1528,7 +1528,7 @@ msgstr ""
 
 #: options-config.php:977
 msgid "Front Page"
-msgstr ""
+msgstr "Voorpagina"
 
 #: options-config.php:978
 msgid "<p class=\"description\">Set up your front page.</p>"
@@ -1546,7 +1546,7 @@ msgstr ""
 
 #: options-config.php:989
 msgid "Amount of Posts"
-msgstr ""
+msgstr "Aantal berichten"
 
 #: options-config.php:1000
 msgid "Podcast Archive Button Text"
@@ -2221,7 +2221,7 @@ msgstr ""
 #: page.php:94 page/page-fullwidth.php:83 page/page-sidebarleft.php:77
 #: post/postfooter.php:35
 msgid "Previous"
-msgstr ""
+msgstr "Vorige aflevering"
 
 #: page.php:114 page/page-sidebarleft.php:96
 msgid "Sorry, no posts matched your criteria."
@@ -2294,7 +2294,7 @@ msgstr ""
 
 #: post/postfooter.php:73
 msgid "Categories: "
-msgstr ""
+msgstr "Categorieën:"
 
 #: post/postfooter.php:79
 msgid "Previous Post"
@@ -2302,7 +2302,7 @@ msgstr ""
 
 #: post/postfooter.php:87
 msgid "Next Post"
-msgstr ""
+msgstr "Volgende aflevering"
 
 #: post/postheader.php:29
 #, php-format
