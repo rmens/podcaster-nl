@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2015-11-29 18:26+0100\n"
+"PO-Revision-Date: 2015-11-29 18:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -1011,31 +1011,31 @@ msgstr ""
 
 #: metabox/list-metaboxes.php:232
 msgid "Featured Gallery"
-msgstr ""
+msgstr "Uitgelichte galerij"
 
 #: metabox/list-metaboxes.php:239
 msgid "Images"
-msgstr ""
+msgstr "Afbeeldingen"
 
 #: metabox/list-metaboxes.php:240
 msgid "Upload images that will be displayed in your gallery."
-msgstr ""
+msgstr "De afbeeldingen die gebruikt zullen worden in de galerij."
 
 #: metabox/list-metaboxes.php:246
 msgid "Enter a short gallery caption.(optional)"
-msgstr ""
+msgstr "Voeg het bijschrift voor de galerij toe. (optioneel"
 
 #: metabox/list-metaboxes.php:251
 msgid "Style"
-msgstr ""
+msgstr "Stijl"
 
 #: metabox/list-metaboxes.php:252
 msgid "Choose how you would like to display your gallery."
-msgstr ""
+msgstr "Kies hoe de galerij weergeven moet worden"
 
 #: metabox/list-metaboxes.php:256
 msgid "Slideshow"
-msgstr ""
+msgstr "Diavoorstelling"
 
 #: metabox/list-metaboxes.php:257
 msgid "Grid"
@@ -1043,150 +1043,155 @@ msgstr ""
 
 #: metabox/list-metaboxes.php:261
 msgid "Columns"
-msgstr ""
+msgstr "Kolommen"
 
 #: metabox/list-metaboxes.php:262
 msgid "Choose the amount of columns (only when set to grid)"
-msgstr ""
+msgstr "Kies het aantal kolommen (alleen wanneer ingesteld op grid)"
 
 #: metabox/list-metaboxes.php:266
 msgid "3 Columns"
-msgstr ""
+msgstr "3 kolommen"
 
 #: metabox/list-metaboxes.php:267
 msgid "4 Columns"
-msgstr ""
+msgstr "4 kolommen"
 
 #: metabox/list-metaboxes.php:268
 msgid "5 Columns"
-msgstr ""
+msgstr "5 kolommen"
 
 #: metabox/list-metaboxes.php:269
 msgid "6 Columns"
-msgstr ""
+msgstr "6 kolommen"
 
 #: metabox/list-metaboxes.php:270
 msgid "7 Columns"
-msgstr ""
+msgstr "7 kolommen"
 
 #: metabox/list-metaboxes.php:271
 msgid "8 Columns"
-msgstr ""
+msgstr "8 kolommen"
 
 #: metabox/list-metaboxes.php:280
 msgid "Page Header Subtitle"
-msgstr ""
+msgstr "Pagina helder (onder)titel"
 
 #: metabox/list-metaboxes.php:287
 msgid "Text Alignment"
-msgstr ""
+msgstr "Tekstuitlijning"
 
 #: metabox/list-metaboxes.php:288
 msgid "Align the heading text to the left (default), center or right."
-msgstr ""
+msgstr "Lijn knop uit naar links (standaard), midden of rechts"
 
 #: metabox/list-metaboxes.php:298
 msgid "Short Blurb"
-msgstr ""
+msgstr "Korte beschrijving"
 
 #: metabox/list-metaboxes.php:299
 msgid ""
 "Submit a short blub or summery of your page that will appear below the title."
 msgstr ""
+"Geef een korte samenvatting of beschrijving die onder de titel wordt "
+"weergeven."
 
 #: metabox/list-metaboxes.php:305
 msgid ""
 "Select whether you would like to display your background stretched or tiled."
 msgstr ""
+"Selecteer of je de achtergrond uitgerekt of naast elkaar wil weergeven."
 
 #: metabox/list-metaboxes.php:310
 msgid "Streched"
-msgstr ""
+msgstr "Uitgerekt"
 
 #: metabox/list-metaboxes.php:315
 msgid "Select if you would like to activate parallax."
-msgstr ""
+msgstr "Schakel dit vakje in als je parallax wilt hebben."
 
 #: options-config.php:144
 msgid "Theme Options"
-msgstr ""
+msgstr "Thema opties"
 
 #: options-config.php:145
 msgid "Podcaster Theme Options"
-msgstr ""
+msgstr "Podcaster thema opties"
 
 #: options-config.php:286
 msgid "Theme Information 1"
-msgstr ""
+msgstr "Thema-informatie 1"
 
 #: options-config.php:287 options-config.php:292
 msgid "<p>This is the tab content, HTML is allowed.</p>"
-msgstr ""
+msgstr "<p>Dit is de inhoud van het tab, HTML is toegestaan.</p>"
 
 #: options-config.php:291
 msgid "Theme Information 2"
-msgstr ""
+msgstr "Thema-informatie 2"
 
 #: options-config.php:298
 msgid "<p>This is the sidebar content, HTML is allowed.</p>"
-msgstr ""
+msgstr "<p>Dit is de inhoud van de zijbalk, HTML is toegestaan.</p>"
 
 #: options-config.php:325
 msgid "Presets"
-msgstr ""
+msgstr "Presets"
 
 #: options-config.php:326
 msgid ""
 "<p class=\"description\">Use a preset to set your theme options with just "
 "one click.</p>"
 msgstr ""
+"<p class=“descriptie”>Een preset gebruiken om de thema opties met één klik "
+"in te stellen.</p>"
 
 #: options-config.php:333
 msgid "Templates Presets"
-msgstr ""
+msgstr "Presets voor het thema"
 
 #: options-config.php:334 options-config.php:336
 msgid ""
 "Choose one of the templates below, to have your website set up within "
 "minutes."
-msgstr ""
+msgstr "Kies een van de sjablonen hieronder, om uw website snel in te stellen."
 
 #: options-config.php:637
 msgid "Colors"
-msgstr ""
+msgstr "Kleuren"
 
 #: options-config.php:638 options-config.php:1048 options-config.php:1123
 #: options-config.php:1163 options-config.php:1682
 msgid "<p class=\"description\">Set up your website layout.</p>"
-msgstr ""
+msgstr "<p class=“descriptie”>Uw website lay-out instellen</p>"
 
 #: options-config.php:644
 msgid "Light/Dark Template"
-msgstr ""
+msgstr "Licht/donker sjabloon"
 
 #: options-config.php:645
 msgid "What template would you like to use?"
-msgstr ""
+msgstr "Welke sjabloon wil je gebruiken?"
 
 #: options-config.php:646
 msgid "Choose between classic and dark."
-msgstr ""
+msgstr "Kies tussen classic en donker."
 
 #: options-config.php:656
 msgid "Accent Color"
-msgstr ""
+msgstr "Accentkleur"
 
 #: options-config.php:657
 msgid "What highlight color would you like to use?"
-msgstr ""
+msgstr "Wat markercingskleur wilt u gebruiken?"
 
 #: options-config.php:658
 msgid "Use the colorpicker to choose a highlight color."
-msgstr ""
+msgstr "Gebruik de colorpicker een markeringskleur te kiezen."
 
 #: options-config.php:666
 msgid "Button Background Color"
-msgstr ""
+msgstr "Knop achtergrondkleur:"
 
 #: options-config.php:667
 msgid ""
