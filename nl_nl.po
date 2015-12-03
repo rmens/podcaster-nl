@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2015-11-29 18:48+0100\n"
+"PO-Revision-Date: 2015-12-03 16:09+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -870,7 +870,7 @@ msgstr "Audio embed (URL)"
 
 #: metabox/list-metaboxes.php:108
 msgid "Audio Embed (Code)"
-msgstr "Audio embed (URL)"
+msgstr "Audio embed (Code)"
 
 #: metabox/list-metaboxes.php:109 metabox/list-metaboxes.php:133
 msgid "Audio Playlist"
@@ -2243,7 +2243,7 @@ msgstr ""
 #: page/page-frontpage.php:189 page/page-frontpage.php:193
 #: page/page-frontpage.php:249 page/page-frontpage.php:253
 msgid " Read More"
-msgstr ""
+msgstr "Lees verder"
 
 #: page/page-frontpage.php:281 page/page-frontpage.php:332
 msgid "From the Blog"
@@ -2277,7 +2277,7 @@ msgstr ""
 
 #: post/postfooter.php:47
 msgid "Leave a reply"
-msgstr ""
+msgstr "Reageer"
 
 #: post/postfooter.php:47
 msgid "1 Reply"
@@ -2294,15 +2294,15 @@ msgstr ""
 
 #: post/postfooter.php:73
 msgid "Categories: "
-msgstr "Categorieën:"
+msgstr "Onderwerpen: "
 
 #: post/postfooter.php:79
 msgid "Previous Post"
-msgstr ""
+msgstr "Vorige"
 
 #: post/postfooter.php:87
 msgid "Next Post"
-msgstr "Volgende aflevering"
+msgstr "Volgende"
 
 #: post/postheader.php:29
 #, php-format
