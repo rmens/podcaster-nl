@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2015-12-03 16:09+0100\n"
+"PO-Revision-Date: 2015-12-03 20:23+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -131,7 +131,7 @@ msgstr "Reacties"
 
 #: comments.php:105
 msgid "Comments are closed."
-msgstr "Reacties zijn gesloten,"
+msgstr " "
 
 #: comments.php:111
 msgid "Comments have been closed."
