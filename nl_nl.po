@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2015-12-10 20:41+0100\n"
+"PO-Revision-Date: 2015-12-28 21:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -2231,7 +2231,7 @@ msgstr ""
 
 #: page/page-archive.php:80
 msgid "Search Archives"
-msgstr ""
+msgstr "Zoek in archief"
 
 #: page/page-archive.php:89
 msgid "By Date"
