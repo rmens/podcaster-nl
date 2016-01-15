@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2016-01-15 22:57+0100\n"
+"PO-Revision-Date: 2016-01-15 23:05+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -2314,12 +2314,12 @@ msgstr ""
 #: search.php:30
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Zoekresultaten voor: %s"
 
 #: search.php:31
 #, php-format
 msgid "Your search has found %s results"
-msgstr ""
+msgstr "We hebben %s afleveringen gevonden"
 
 #: single.php:244
 msgid "Podcast:"
