@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Podcaster\n"
 "POT-Creation-Date: 2015-09-22 11:15+0100\n"
-"PO-Revision-Date: 2016-01-15 23:12+0100\n"
+"PO-Revision-Date: 2016-01-15 23:18+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -131,7 +131,9 @@ msgstr "Reacties"
 
 #: comments.php:105
 msgid "Comments are closed."
-msgstr " "
+msgstr ""
+"Reageer op deze uitzending via het <a href=“http://techsnacks.nl/submit/"
+">reactieformulier</a>."
 
 #: comments.php:111
 msgid "Comments have been closed."
